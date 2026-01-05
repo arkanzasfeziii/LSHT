@@ -96,12 +96,6 @@ Keep backups of critical configuration files (the tool creates backups automatic
 Review all changes before applying them in production environments
 Consider scheduling regular security scans to maintain your security posture
 
-🤝 Contributing
-Contributions are welcome! Please see CONTRIBUTING.md for details on how to contribute.
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ⚠ Disclaimer
 This tool makes significant changes to system configuration. While it has been designed with safety in mind:
 
@@ -117,4 +111,5 @@ NIST Security Guidelines
 NSA Security Configuration Guides
 DISA STIGs
 OpenSCAP Security Profiles
+
 Made By arkanzasfeziii
