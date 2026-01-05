@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+*.cover
+.python-version
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.*.swp
+.*.swo
+
+# Logs
+*.log
+/var/log/system-hardening/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.tmp
+*.orig
+*.rej
+
+# Environment variables
+.env
+.venv
+env
+venv
+ENV
+env.bak/
+venv.bak/
+
+# Security specific
+*.key
+*.pem
+*.cert
+*.p12
+*.pfx
+
+# Temporary files
+*.temp
+*.tmp
+temp/
+tmp/
+
+# Editor backup files
+.*.un~
